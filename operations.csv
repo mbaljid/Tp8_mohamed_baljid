@@ -1,0 +1,5 @@
+operation,params
+user_update,id=101
+data_sync,source=api
+error_trigger,simulate_crash
+email_send,admin@local

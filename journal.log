@@ -1,0 +1,5 @@
+[2025-12-19 19:24:55] SESSION START - Fichier source: operations.csv
+[2025-12-19 19:24:55] Processing: user_update with id=101
+[2025-12-19 19:24:55] Processing: data_sync with source=api
+[2025-12-19 19:24:55] Processing: error_trigger with simulate_crash
+[2025-12-19 19:24:55] SESSION ERROR - Exception: ValueError -> Crash simulé durant le traitement !
